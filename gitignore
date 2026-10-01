@@ -1,0 +1,15 @@
+# Downloaded attachments
+downloads/
+downloads_case/
+
+# Generated data
+announcements.csv
+announcements_new.csv
+files.txt
+failed.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
