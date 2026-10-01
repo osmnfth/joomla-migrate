@@ -158,8 +158,54 @@ Expect only documents and images (`.pdf`, `.doc`, `.docx`, `.xls`, `.xlsx`, `.jp
    - `date` → Date
    - `slug` → Slug / Post name
    - a fixed category (e.g. "Announcements")
-3. **Redirects.** Use `old_slug` to map old URLs of the form `/index.php/el/anakoinoseis/<old_slug>` to the new posts (for example with the Redirection plugin or an `.htaccess` rule).
+3. **Redirects.** Set up redirects from the old Joomla URLs to the new ones (see [Redirects](#redirects-same-domain) below).
 4. **Manual fixes.** Replace links to old Joomla pages that were reported by `rewrite.py` with their new equivalents.
+
+## Redirects (same domain)
+
+When the new WordPress site replaces Joomla on the same domain, old links (bookmarks, links from other sites, e-mails already sent) must keep working. Without redirects they would return 404.
+
+Two things need redirecting:
+
+1. **Attachments**: `/images/...` (old Joomla media folder) → `/wp-content/uploads/vo-archive/images/...`
+2. **Announcements**: `/index.php/el/anakoinoseis/<old_slug>` → `/anakoinoseis/<old_slug>/` (requires the permalink structure `/anakoinoseis/%postname%/` and the slugs from `announcements.csv`)
+
+### Plesk with nginx in front of Apache (recommended)
+
+In Plesk go to *Websites & Domains → the domain → Apache & nginx Settings → Additional nginx directives* and add:
+
+```nginx
+location ^~ /images/ {
+    rewrite ^/images/(.*)$ /wp-content/uploads/vo-archive/images/$1 permanent;
+}
+rewrite ^/index\.php/el/anakoinoseis/(.+)$ /anakoinoseis/$1/ permanent;
+```
+
+Static files such as PDFs and images are often served by nginx directly and never reach Apache, so `.htaccess` rules would not apply to them. If old links without `index.php` also exist, add:
+
+```nginx
+rewrite ^/el/anakoinoseis/(.+)$ /anakoinoseis/$1/ permanent;
+```
+
+### Plain Apache (no nginx in front)
+
+Add to `.htaccess`, above the `# BEGIN WordPress` block:
+
+```apache
+RewriteRule ^images/(.*)$ /wp-content/uploads/vo-archive/images/$1 [R=301,L]
+RewriteRule ^index\.php/el/anakoinoseis/(.+)$ /anakoinoseis/$1/ [R=301,L]
+```
+
+### Testing the redirects
+
+Each command should return `301` and a `Location:` header with the new address:
+
+```powershell
+curl.exe -I https://vo.duth.gr/images/AITISI.pdf
+curl.exe -I https://vo.duth.gr/index.php/el/anakoinoseis/enarksi-mathimaton-apostagmatopoiia
+```
+
+Then follow the `Location` in a browser and check that the right file or announcement opens.
 
 ## Notes and limitations
 
