@@ -1,6 +1,6 @@
 import requests, hashlib
 
-BASE = "https://vo.duth.gr/wp-content/uploads/vo-archive/images/"   # άλλαξέ το αν είσαι σε staging
+BASE = "http://83.212.145.131:8080/wp-content/uploads/vo-archive/images/"
 expected = {
     "AITISI.pdf": "23a967e13642",
     "aitisi.pdf": "1db96646719d",
