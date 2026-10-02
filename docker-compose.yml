@@ -1,0 +1,31 @@
+# WordPress test site (staging) for a NAS with Docker
+# (Synology Container Manager, QNAP Container Station, or plain Docker).
+# Change the passwords below before the first start.
+
+services:
+  db:
+    image: mariadb:11
+    restart: unless-stopped
+    environment:
+      MARIADB_DATABASE: wordpress
+      MARIADB_USER: wp
+      MARIADB_PASSWORD: change-me-db-password
+      MARIADB_ROOT_PASSWORD: change-me-root-password
+    volumes:
+      - ./db:/var/lib/mysql
+
+  wordpress:
+    image: wordpress:php8.3-apache
+    restart: unless-stopped
+    depends_on:
+      - db
+    ports:
+      - "8080:80"
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_NAME: wordpress
+      WORDPRESS_DB_USER: wp
+      WORDPRESS_DB_PASSWORD: change-me-db-password
+    volumes:
+      - ./wordpress:/var/www/html
+      - ./uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
