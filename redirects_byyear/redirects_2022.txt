@@ -1,0 +1,68 @@
+# 301 redirects.  Format: old URL<TAB>new URL
+# Site: https://vo.duth.gr
+# WordPress may change a slug (e.g. adds -2 to duplicates): check after the import.
+
+# ===== 2022  (39 announcements, 22 files) =====
+# Announcements 2022
+https://vo.duth.gr/index.php/el/anakoinoseis/anabole-mathematos-anglika	https://vo.duth.gr/anakoinoseis/anabole-mathematos-anglika/
+https://vo.duth.gr/index.php/el/anakoinoseis/anabole-mathematos-biotechnologia-phyton	https://vo.duth.gr/anakoinoseis/anabole-mathematos-biotechnologia-phyton/
+https://vo.duth.gr/index.php/el/anakoinoseis/anabole-mathematos-ka-kyraleou	https://vo.duth.gr/anakoinoseis/anabole-mathematos-ka-kyraleou/
+https://vo.duth.gr/index.php/el/anakoinoseis/anabole-mathematos-mathematika	https://vo.duth.gr/anakoinoseis/anabole-mathematos-mathematika/
+https://vo.duth.gr/index.php/el/anakoinoseis/anakoinose-enzymike-biotechnologia	https://vo.duth.gr/anakoinoseis/anakoinose-enzymike-biotechnologia/
+https://vo.duth.gr/index.php/el/anakoinoseis/anakoinose-epharmosmene-enzymologia	https://vo.duth.gr/anakoinoseis/anakoinose-epharmosmene-enzymologia/
+https://vo.duth.gr/index.php/el/anakoinoseis/anakoinose-epharmosmene-enzymologia-enzymike-biotechnologia	https://vo.duth.gr/anakoinoseis/anakoinose-epharmosmene-enzymologia-enzymike-biotechnologia/
+https://vo.duth.gr/index.php/el/anakoinoseis/anakoinose-genike-kai-anorgane-chemeia	https://vo.duth.gr/anakoinoseis/anakoinose-genike-kai-anorgane-chemeia/
+https://vo.duth.gr/index.php/el/anakoinoseis/anakoinose-mathematon-k-gounare	https://vo.duth.gr/anakoinoseis/anakoinose-mathematon-k-gounare/
+https://vo.duth.gr/index.php/el/anakoinoseis/anakoinose-morphologia-kai-physiologia-phyton	https://vo.duth.gr/anakoinoseis/anakoinose-morphologia-kai-physiologia-phyton/
+https://vo.duth.gr/index.php/el/anakoinoseis/apotelesmata-katatakterion	https://vo.duth.gr/anakoinoseis/apotelesmata-katatakterion/
+https://vo.duth.gr/index.php/el/anakoinoseis/axiologese-kai-protaseis-gia-to-nps-tou-tmematos-agrotikes-biotechnologias-kai-oinologias	https://vo.duth.gr/anakoinoseis/axiologese-kai-protaseis-gia-to-nps-tou-tmematos-agrotikes-biotechnologias-kai-oinologias/
+https://vo.duth.gr/index.php/el/anakoinoseis/deloseis-mathematon-earinou-examenou	https://vo.duth.gr/anakoinoseis/deloseis-mathematon-earinou-examenou/
+https://vo.duth.gr/index.php/el/anakoinoseis/deloseis-mathematon-earinou-examenou-2021-2022	https://vo.duth.gr/anakoinoseis/deloseis-mathematon-earinou-examenou-2021-2022/
+https://vo.duth.gr/index.php/el/anakoinoseis/embolime-exetastike-2023-ka-mpouloumpase	https://vo.duth.gr/anakoinoseis/embolime-exetastike-2023-ka-mpouloumpase/
+https://vo.duth.gr/index.php/el/anakoinoseis/emeromenia-katatakterion-exetaseon-2022-2023	https://vo.duth.gr/anakoinoseis/emeromenia-katatakterion-exetaseon-2022-2023/
+https://vo.duth.gr/index.php/el/anakoinoseis/engraphes-ton-eisagomenon-allodapon-allogenon-kai-omogenon-ypotrophon	https://vo.duth.gr/anakoinoseis/engraphes-ton-eisagomenon-allodapon-allogenon-kai-omogenon-ypotrophon/
+https://vo.duth.gr/index.php/el/anakoinoseis/ethniko-programma-ypotrophion-slobakias	https://vo.duth.gr/anakoinoseis/ethniko-programma-ypotrophion-slobakias/
+https://vo.duth.gr/index.php/el/anakoinoseis/eudoxos-enarxe-dianomes-earinou-examenou-2021-22	https://vo.duth.gr/anakoinoseis/eudoxos-enarxe-dianomes-earinou-examenou-2021-22/
+https://vo.duth.gr/index.php/el/anakoinoseis/exetastike-cheimerinou-examenou-embolime-2022-2023	https://vo.duth.gr/anakoinoseis/exetastike-cheimerinou-examenou-embolime-2022-2023/
+https://vo.duth.gr/index.php/el/anakoinoseis/iky-ypotrophies	https://vo.duth.gr/anakoinoseis/iky-ypotrophies/
+https://vo.duth.gr/index.php/el/anakoinoseis/katatakteries-exetaseis-2022-2023	https://vo.duth.gr/anakoinoseis/katatakteries-exetaseis-2022-2023/
+https://vo.duth.gr/index.php/el/anakoinoseis/mathemata-pps-technologia-bynopoieses-epharmosmene-enzymologia-epexergasia-apobleton-biotechnologia-kai-biomechanikes-zymoseis-ka-alexandre	https://vo.duth.gr/anakoinoseis/mathemata-pps-technologia-bynopoieses-epharmosmene-enzymologia-epexergasia-apobleton-biotechnologia-kai-biomechanikes-zymoseis-ka-alexandre/
+https://vo.duth.gr/index.php/el/anakoinoseis/metengraphes-2022-2023	https://vo.duth.gr/anakoinoseis/metengraphes-2022-2023/
+https://vo.duth.gr/index.php/el/anakoinoseis/nea-anakoinose-sitises-2022-2023-gia-protoeteis	https://vo.duth.gr/anakoinoseis/nea-anakoinose-sitises-2022-2023-gia-protoeteis/
+https://vo.duth.gr/index.php/el/anakoinoseis/nea-anakoinose-stegases-2022-2023-gia-protoeteis	https://vo.duth.gr/anakoinoseis/nea-anakoinose-stegases-2022-2023-gia-protoeteis/
+https://vo.duth.gr/index.php/el/anakoinoseis/neo-orologio-cheimerino-programma-2022-2023	https://vo.duth.gr/anakoinoseis/neo-orologio-cheimerino-programma-2022-2023/
+https://vo.duth.gr/index.php/el/anakoinoseis/oloklerose-spoudon-orkomosia-2022	https://vo.duth.gr/anakoinoseis/oloklerose-spoudon-orkomosia-2022/
+https://vo.duth.gr/index.php/el/anakoinoseis/orkomosia-apophoiton-tmematos	https://vo.duth.gr/anakoinoseis/orkomosia-apophoiton-tmematos/
+https://vo.duth.gr/index.php/el/anakoinoseis/paratase-eudoxos	https://vo.duth.gr/anakoinoseis/paratase-eudoxos/
+https://vo.duth.gr/index.php/el/anakoinoseis/praktike-askese	https://vo.duth.gr/anakoinoseis/praktike-askese/
+https://vo.duth.gr/index.php/el/anakoinoseis/problema-stis-deloseis-sta-parakato-metroa-phoiteton	https://vo.duth.gr/anakoinoseis/problema-stis-deloseis-sta-parakato-metroa-phoiteton/
+https://vo.duth.gr/index.php/el/anakoinoseis/prokeryxe-diagonismou-brabeuses-phoiteton-ellenikon-kai-kypriakon-aei	https://vo.duth.gr/anakoinoseis/prokeryxe-diagonismou-brabeuses-phoiteton-ellenikon-kai-kypriakon-aei/
+https://vo.duth.gr/index.php/el/anakoinoseis/prosorina-apotelesmata-sitises-ak-etos-2022-2023	https://vo.duth.gr/anakoinoseis/prosorina-apotelesmata-sitises-ak-etos-2022-2023/
+https://vo.duth.gr/index.php/el/anakoinoseis/seminariake-parousiase	https://vo.duth.gr/anakoinoseis/seminariake-parousiase/
+https://vo.duth.gr/index.php/el/anakoinoseis/telika-apotelesmata-sitises-2022-2023	https://vo.duth.gr/anakoinoseis/telika-apotelesmata-sitises-2022-2023/
+https://vo.duth.gr/index.php/el/anakoinoseis/telika-apotelesmata-stegases-2022-2023	https://vo.duth.gr/anakoinoseis/telika-apotelesmata-stegases-2022-2023/
+https://vo.duth.gr/index.php/el/anakoinoseis/theseis-praktikes-askeses-ktema-kosta-lazaride	https://vo.duth.gr/anakoinoseis/theseis-praktikes-askeses-ktema-kosta-lazaride/
+https://vo.duth.gr/index.php/el/anakoinoseis/ypotrophies-s-niarchou	https://vo.duth.gr/anakoinoseis/ypotrophies-s-niarchou/
+# Files 2022
+https://vo.duth.gr/images/documents/KATATAKTIRIES_22.docx	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/documents/KATATAKTIRIES_22.docx
+https://vo.duth.gr/images/documents/TELIKA_APO_SIT.xlsx	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/documents/TELIKA_APO_SIT.xlsx
+https://vo.duth.gr/images/pdf/1%20FYLLO.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/1%20FYLLO.pdf
+https://vo.duth.gr/images/pdf/2%20FYLLO.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/2%20FYLLO.pdf
+https://vo.duth.gr/images/pdf/3%20FYLLO.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/3%20FYLLO.pdf
+https://vo.duth.gr/images/pdf/4%20FYLLO.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/4%20FYLLO.pdf
+https://vo.duth.gr/images/pdf/5232_2022-03-18.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/5232_2022-03-18.pdf
+https://vo.duth.gr/images/pdf/5314_2022-03-18.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/5314_2022-03-18.pdf
+https://vo.duth.gr/images/pdf/Aitese%20Ptychiouchou.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/Aitese%20Ptychiouchou.pdf
+https://vo.duth.gr/images/pdf/Aitese%20Symmetoches_katatakteries%202022.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/Aitese%20Symmetoches_katatakteries%202022.pdf
+https://vo.duth.gr/images/pdf/Anakoinose%20gia%20katathese%20dikaiologetikon%20gia%20symmetoche%20se%20orkomosia.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/Anakoinose%20gia%20katathese%20dikaiologetikon%20gia%20symmetoche%20se%20orkomosia.pdf
+https://vo.duth.gr/images/pdf/DELOSEIS%202022%20SOS.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/DELOSEIS%202022%20SOS.pdf
+https://vo.duth.gr/images/pdf/EKO_2020-2021.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/EKO_2020-2021.pdf
+https://vo.duth.gr/images/pdf/ENCHEIRIDIO_YPOB_%20DIK_STEGASES_EPHARMOGE_SITISES_28_09_2022.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/ENCHEIRIDIO_YPOB_%20DIK_STEGASES_EPHARMOGE_SITISES_28_09_2022.pdf
+https://vo.duth.gr/images/pdf/EX_X_2023.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/EX_X_2023.pdf
+https://vo.duth.gr/images/pdf/IKY.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/IKY.pdf
+https://vo.duth.gr/images/pdf/METENGRAPHES%20Enkyklios%20dikaiologetikon.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/METENGRAPHES%20Enkyklios%20dikaiologetikon.pdf
+https://vo.duth.gr/images/pdf/ODEGIES%20ORKOMOSIAS%2009.12.2022.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/ODEGIES%20ORKOMOSIAS%2009.12.2022.pdf
+https://vo.duth.gr/images/pdf/ONOMATA%203%20PPS%20OROLOGIO%20CHEIMERINO%20%202022-2023%20%20.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/ONOMATA%203%20PPS%20OROLOGIO%20CHEIMERINO%20%202022-2023%20%20.pdf
+https://vo.duth.gr/images/pdf/ONOMATA%205%20NPS%20OROLOGIO%20CHEIMERINO%202022-2023%20%20.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/ONOMATA%205%20NPS%20OROLOGIO%20CHEIMERINO%202022-2023%20%20.pdf
+https://vo.duth.gr/images/pdf/Paratasi_Dianomis_Xeimerinou_2022.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/Paratasi_Dianomis_Xeimerinou_2022.pdf
+https://vo.duth.gr/images/pdf/TELIKA_ANARTESE_2022.pdf	https://vo.duth.gr/wp-content/uploads/vo-archive/2022/pdf/TELIKA_ANARTESE_2022.pdf
