@@ -1,12 +1,24 @@
-# Downloaded attachments
+# Downloaded and generated files
 downloads/
 downloads_case/
-
-# Generated data
+downloads_byyear/
+downloads_byyear_extra/
 announcements.csv
 announcements_new.csv
 files.txt
 failed.txt
+files_byyear.csv
+redirects_byyear/
+redirects_by_year.txt
+redirects_nginx.conf
+redirects_apache.htaccess
+*.zip
+
+# Local staging site (contains passwords and database files)
+docker-compose.yml
+db/
+wordpress/
+uploads.ini
 
 # Python
 __pycache__/
